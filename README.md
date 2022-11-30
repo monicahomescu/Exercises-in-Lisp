@@ -9,4 +9,4 @@ d) Write a function to test whether a linear list is a set.
 
 ## Exercise 2
 
-Return the level of a nodeX in a tree of type (2). The level of the root element is 0.
+Return the level of a node X in a tree of type (2). The level of the root element is 0.
