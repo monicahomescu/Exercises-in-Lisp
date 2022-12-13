@@ -10,3 +10,8 @@ d) Write a function to test whether a linear list is a set.
 ## Exercise 2
 
 Return the level of a node X in a tree of type (2). The level of the root element is 0.
+
+## Exercise 3
+
+Define a function that returns the depth of a tree represented as (root list_of_nodes_subtree1 ... list_of_nodes_subtreen).\
+Eg. the depth of the tree (a (b (c)) (d) (e (f))) is 3
